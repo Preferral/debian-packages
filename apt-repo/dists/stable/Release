@@ -1,0 +1,15 @@
+Origin: Preferral Debian Packages Repository
+Label: Preferral Debian Packages
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: Preferral Debian Packages Repository
+Date: Mon, 20 Nov 2023 18:08:37 +0000
+MD5Sum:
+ 82d9bf51881cbe2d528c56aab8ca0324 415 main/binary-amd64/Packages
+SHA1:
+ ccc7d6b6430f9bfaaf9e082389a5cb3752f37819 415 main/binary-amd64/Packages
+SHA256:
+ 85e70392e03dd221f6b6e27d8484dcfc4a15510c6ca00f8e950563103b7fc8f7 415 main/binary-amd64/Packages

@@ -1,0 +1,11 @@
+Package: ghostscript
+Version: 10.02.1
+Architecture: amd64
+Maintainer: Michael Foster <mfoster@aristamd.com>
+Filename: pool/main/ghostscript-10.02.1-deb10_amd64.deb
+Size: 25662488
+MD5sum: bd9c8f36fb96bcc44ad013957f8fa557
+SHA1: df1fc87fe8c99375b3c9d22d9d4be19b075baa7c
+SHA256: d00f3644a226caff651b1e6bc6bcd91f0433428659799003ad43330a3a1c5a88
+Description: Ghostscript 10.02.1 compiled on Debian GNU/Linux 10 (buster)
+
